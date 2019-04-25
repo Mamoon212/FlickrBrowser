@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Flickr Java</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_search">Search Activity</string>
+    <string name="title_activity_photo_detail">Photo Detail</string>
+    <string name="browse_image_description">Downoaded flickr photo</string>
+    <string name="photo_detail_description">Full size image</string>
+    <string name="photo_title_text">Title: %s</string>
+    <string name="photo_tags_text">Tags: %s</string>
+    <string name="photo_author_text">Author: %s</string>
+    <string name="activity_search">Search</string>
+    <string name="searchable_hint">Enter photo tags</string>
+    <string name="empty_search_result">No photos match your search.   Use the search icon to search for photos.</string>
+
+</resources>
